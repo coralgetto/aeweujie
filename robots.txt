@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neiduuyeez.shirtroom-jw.com/sitemap.xml
